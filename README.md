@@ -24,7 +24,7 @@ Implementations:
 * Choosing, sequencing, and lucidly presenting topics within a time limit requires repeated practice.
 * Presentations in phase-boundary interviews will improve, helping SEPs accurately assess next-phase readiness.
 * Learner estimates of their own next-phase readiness will become more accurate, decreasing the time spent by SEPs and learners on repeated phase-boundary evaluations.
-* Skill applies widely, including in:
+* Code-tour skills apply widely, including in:
  * Employment interviews
  * On-the-job all-hands presentations
  * Training sessions
@@ -32,6 +32,7 @@ Implementations:
  * Seminars
  * Open-source project progress reports
  * Funding pitches
+* Officiating skills apply to service on interviewing panels in firms.
 
 #### Says who?
 
