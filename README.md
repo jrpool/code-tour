@@ -1,6 +1,6 @@
 # Code Tours
 
-### A proposal to Learners Guild for a curricular enhancement
+### A curriculum-enhancement proposal to Learners Guild
 
 #### What?
 
@@ -21,4 +21,13 @@ Implementations:
 
 #### Why?
 
-Need 
+* Improve presentations in phase-boundary interviews, helping SEPs accurately assess learner’s next-phase readiness.
+* Skill applies to employment interviews, on-the-job all-hands presentations, training sessions, sales presentations, seminars, open-source project round-tables, funding pitches, etc.
+
+#### Says who?
+
+This proposal is endorsed by:
+
+* Eugene Baah
+* Jonathan Pool
+* ...
