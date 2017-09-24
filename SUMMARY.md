@@ -1,4 +1,4 @@
 # Summary
 
-* [Code Tours](README.md)
+* [A curriculum-enhancement proposal to Learners Guild](README.md)
 
