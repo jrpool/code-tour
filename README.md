@@ -15,7 +15,7 @@ Components:
 
 Implementations:
 
-* Learners in P1, P2, and P3 give code tours officiated by 2 learners from 2 phases higher, organized as 3-tour, 1-hour sessions, open to other learners.
+* Learners in P1, P2, and P3 give code tours officiated by 2 learners from 2 phases higher or 1 pro coach, organized as 3-tour, 1-hour sessions, open to other learners.
 * Existing live code reviews conducted by SEPs convert to code-tour format.
 * Each P1, P2, and P3 learner gives 1 code tour per week (except weeks of phase-boundary evaluations).
 
