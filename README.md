@@ -30,6 +30,7 @@ Implementations:
  * Training sessions
  * Sales presentations
  * Seminars
+ * Conferences
  * Open-source project progress reports
  * Funding pitches
 * Officiating skills apply to service on interviewing panels in firms.
