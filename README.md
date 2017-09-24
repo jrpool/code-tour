@@ -21,8 +21,15 @@ Implementations:
 
 #### Why?
 
-* Improve presentations in phase-boundary interviews, helping SEPs accurately assess learner’s next-phase readiness.
-* Skill applies to employment interviews, on-the-job all-hands presentations, training sessions, sales presentations, seminars, open-source project round-tables, funding pitches, etc.
+* Presentations in phase-boundary interviews will improve, helping SEPs accurately assess next-phase readiness.
+* Skill applies widely, including in:
+ * Employment interviews
+ * On-the-job all-hands presentations
+ * Training sessions
+ * Sales presentations
+ * Seminars
+ * Open-source project progress reports
+ * Funding pitches
 
 #### Says who?
 
