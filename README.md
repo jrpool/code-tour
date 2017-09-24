@@ -6,11 +6,9 @@
 
 “Code tour”: a time-limited demonstration of an application by its developer\(s\).
 
-Features:
+Components:
 
-* Time limit: 15 minutes.
-* Components:
-* Application interface demo: 5 minutes.
-
-
+* Major specifications: 2 minutes.
+* Demo of app’s compliance with specs: 3 minutes.
+* Code architecture, strategy, tactics.
 
