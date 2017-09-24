@@ -4,7 +4,7 @@
 
 #### What?
 
-“Code tour”: a time-limited demonstration of an application by its developer\(s\).
+“Code tour”: a time-limited demonstration of an application by one of its developers.
 
 Components:
 
